@@ -10,6 +10,7 @@
 			<img src="img/ubisoft.png" id="ubisoft"/>
 		</a>
 	</div>
+	<h1 class="footertext">THIS IS MERELY A SCHOOL PROJECT</h1>
 	<div id='footerdiv2'>
 		<h1 class="footertext">
 			THIS SITE IS MADE BY:
